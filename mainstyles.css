@@ -1,0 +1,46 @@
+h1 {
+    background-color: rgb(255, 187, 0);
+    margin: 0%;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+h3 {
+    text-align: center
+}
+
+h4 {
+    text-align: center
+}
+
+.cities {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.city {
+    padding: 2rem;
+    text-align: center;
+}
+
+img {
+    object-fit: cover;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 1.75rem;
+}
+
+.caption {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2.5rem;
+}
