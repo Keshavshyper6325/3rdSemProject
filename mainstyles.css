@@ -70,8 +70,14 @@ div.end {
     color: white;
     text-align: center;
     margin-bottom: 0%;
+    line-height: 3rem;
 }
 
 div.end>h3 {
     font-size: 1rem;
+}
+
+div.end>img {
+    width: 7.5rem;
+    height: 7.5rem;
 }
