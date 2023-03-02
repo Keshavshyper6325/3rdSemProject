@@ -1,10 +1,14 @@
 h1 {
-    margin: 0%;
-    text-align: center;
-    font-size: 2.5rem;
-    margin-left: 20rem;
-    text-align: justify;
+    font-size: 1.5rem;
     color: white;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+div.end>h3 {
+    font-size: 1rem;
 }
 
 body {
@@ -38,15 +42,16 @@ a:visited {
 div.nav {
     background-color: #f88e8e;
     display: flex;
-    line-height: 10rem;
+    line-height: 2rem;
+    justify-content: center;
+    align-items: center;
 
 }
 
 div.nav>img {
-    width: 10rem;
-    height: 10rem;
-    padding-left: 15rem;
-    border-radius: 3.5rem;
+    width: 7rem;
+    height: 7rem;
+    border-radius: 1.5rem;
     object-fit: cover;
 }
 
