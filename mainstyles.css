@@ -41,7 +41,7 @@ div>img {
 a {
     text-decoration: none;
     font-size: 2.5rem;
-    background-color: red;
+    background-color: #f88e8e;
     border-radius: 0.5rem;
     color: white;
     margin: 1rem;
@@ -50,7 +50,7 @@ a {
 }
 
 div.nav {
-    background-color: #f88e8e;
+    background-color: #f54343;
     display: flex;
     line-height: 2rem;
     align-items: center;

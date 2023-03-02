@@ -18,7 +18,7 @@ body {
 }
 
 a {
-    background-color: red;
+    background-color: #f88e8e;
     border-radius: 0.5rem;
     color: white;
     margin: 1rem;
@@ -40,7 +40,7 @@ a:visited {
 }
 
 div.nav {
-    background-color: #f88e8e;
+    background-color: #f54343;
     display: flex;
     line-height: 2rem;
     justify-content: center;
